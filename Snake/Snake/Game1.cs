@@ -11,7 +11,6 @@ namespace Snake
     {
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
-        int hej = 10;
 
         public Game1()
         {
