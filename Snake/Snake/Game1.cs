@@ -11,7 +11,7 @@ namespace Snake
     {
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
-        bool viktorharenstorpenis = true;
+      
 
         public Game1()
         {
